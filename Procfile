@@ -1,1 +1,1 @@
-web:gunicorn najnew.wsgi --log-file -
+web: gunicorn najnew.wsgi --log-file -
